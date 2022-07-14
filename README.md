@@ -17,4 +17,4 @@ To automate the creation of joint savings accounts, you’ll create a Solidity s
 
 ## Screenshots
 
-!(Execution_Results\1-code-compiled.PNG)
+![Screenshot1](Execution_Results/1-code-compiled.PNG)
