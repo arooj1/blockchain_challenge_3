@@ -8,4 +8,13 @@ To automate the creation of joint savings accounts, you’ll create a Solidity s
 
 ## Task
 
+1- Create a Joint Savings Account Contract in Solidity
 
+2- Compile and Deploy Your Contract in the JavaScript VM
+
+3- Interact with Your Deployed Smart Contract
+
+
+## Screenshots
+
+![execution](Execution_Results\1-code-compiled.PNG)
